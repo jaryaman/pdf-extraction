@@ -1,0 +1,5 @@
+/uio
+*.pdf
+.vscode
+.git
+.ipynb_checkpoints
